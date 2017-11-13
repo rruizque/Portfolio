@@ -1,0 +1,14 @@
+
+
+#at_home		{	
+					text-align: justify;
+					position: relative;
+					font-family: Helvetica;
+					float: center;
+					padding-top: 2.5%;
+					padding-left: 15%;
+					padding-right: 15%;
+					z-index: 1;
+					line-height: 1.8em;
+					font-size: .9em;
+				}

@@ -1,0 +1,41 @@
+#contact_me		{	
+					text-align: justify;
+					position: relative;
+					font-family: Helvetica;
+					float: center;
+					padding-top: 2.5%;
+					padding-left: 20%;
+					padding-right: 20%;
+					z-index: 1;
+					line-height: 1.2em;
+					font-size: 1.2em;
+				}
+
+.contact			{
+					border-bottom-style: outset;
+					border-bottom-color: #e6e6e6;
+					padding: 1%;
+					text-align: center;
+				}
+
+.contact p 		{
+					text-align: center;
+				}
+
+.contact a 		{
+					text-decoration: none;
+
+				}
+
+.contact a:hover	{
+					background-color: #3399ff;
+					color: black;
+				}
+
+.contact h4		{
+					text-align: left;
+				}
+
+h2				{
+					text-align: center;
+				}

@@ -1,0 +1,26 @@
+h3				{
+					text-align: left;
+				}
+
+h4				{
+					text-align: left;
+				}
+
+#work_experience{	
+					text-align: justify;
+					position: relative;
+					font-family: Helvetica;
+					float: center;
+					padding-top: 2.5%;
+					padding-left: 15%;
+					padding-right: 15%;
+					z-index: 1;
+					line-height: 1.2em;
+					font-size: .9em;
+				}
+
+.job			{
+					border-bottom-style: outset;
+					border-bottom-color: #e6e6e6;
+					padding: 1%;
+				}
