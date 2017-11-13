@@ -10,3 +10,9 @@
 					line-height: 1.5em;
 					font-size: 1em;
 				}
+.repo			{
+				border-bottom-style: outset;
+				border-bottom-color: #e6e6e6;
+				padding: 1%;
+				text-align: center;
+			}
