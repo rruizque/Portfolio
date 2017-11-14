@@ -145,3 +145,10 @@ body 			{
 }
 
 img.responsive{height: auto;}
+
+
+#footer				{
+						text-align: center;
+						position: relative;
+						float: bottom;
+					}
