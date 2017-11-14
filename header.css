@@ -147,7 +147,7 @@ body 			{
 img.responsive{height: auto;}
 
 
-#footer				{
+#footer				{		padding: 2%;
 						text-align: center;
 						position: relative;
 						float: bottom;
