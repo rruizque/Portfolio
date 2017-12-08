@@ -1,0 +1,33 @@
+header					{
+							text-align: center;
+							padding: 1%;
+							background-color: #e6e6e6;
+						}
+
+footer					{
+							text-align: center;
+							padding: 1%;
+							background-color: black;
+							color: white;
+						}
+
+section					{
+							position: relative;
+							float: center;
+							width: 70%;
+							margin-left: 15%;
+							margin-right: 15%;
+							padding-top: 1%;
+							padding-bottom: 1%;
+						}
+
+#section_header			{
+							border-bottom-style: outset;
+							border-bottom-color: #e6e6e6;
+							padding-top: 1%;
+						}
+
+#buttons_section		{
+							text-align: center;
+							padding: 1%;
+						}
