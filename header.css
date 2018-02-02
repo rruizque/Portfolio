@@ -30,7 +30,7 @@ body 			{
 				}
 
 #h_title img	{
-					border-radius: 5pt 5pt 5pt 5pt;
+					border-radius: 35pt 35pt 35pt 35pt;
 					/*
 					border-style: outset;
 					border-color: #ffff80;
@@ -131,17 +131,17 @@ body 			{
 
 @media screen and (max-width:720px)
 {
-  img.responsive {width: 180px;}
+  img.responsive {width: 120px;}
 }
 
 @media screen and (min-width:720px)
 {
-  img.responsive{width: 300px;}
+  img.responsive{width: 200px;}
 }
 
 @media screen and (max-width: -width:300px)
 {
-  img.responsive{width: 100px;}
+  img.responsive{width: 70px;}
 }
 
 img.responsive{height: auto;}
